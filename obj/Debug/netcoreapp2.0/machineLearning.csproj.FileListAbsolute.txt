@@ -1,0 +1,10 @@
+/Users/shaggleek/Projects/machineLearning/bin/Debug/netcoreapp2.0/machineLearning.deps.json
+/Users/shaggleek/Projects/machineLearning/bin/Debug/netcoreapp2.0/machineLearning.runtimeconfig.json
+/Users/shaggleek/Projects/machineLearning/bin/Debug/netcoreapp2.0/machineLearning.runtimeconfig.dev.json
+/Users/shaggleek/Projects/machineLearning/bin/Debug/netcoreapp2.0/machineLearning.dll
+/Users/shaggleek/Projects/machineLearning/bin/Debug/netcoreapp2.0/machineLearning.pdb
+/Users/shaggleek/Projects/machineLearning/obj/Debug/netcoreapp2.0/machineLearning.csproj.CoreCompileInputs.cache
+/Users/shaggleek/Projects/machineLearning/obj/Debug/netcoreapp2.0/machineLearning.AssemblyInfoInputs.cache
+/Users/shaggleek/Projects/machineLearning/obj/Debug/netcoreapp2.0/machineLearning.AssemblyInfo.cs
+/Users/shaggleek/Projects/machineLearning/obj/Debug/netcoreapp2.0/machineLearning.dll
+/Users/shaggleek/Projects/machineLearning/obj/Debug/netcoreapp2.0/machineLearning.pdb

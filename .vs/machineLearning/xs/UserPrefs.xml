@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{215E7AF2-E0A7-42B8-907C-DD333222DB20}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MainClass.cs">
+    <Files>
+      <File FileName="MainClass.cs" Line="26" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.machineLearning PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
