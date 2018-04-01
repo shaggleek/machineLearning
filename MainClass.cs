@@ -36,6 +36,11 @@ namespace machineLearning
                     }
                 }
             }
+
+            foreach (var flower in sepalLength)
+            {
+                Console.WriteLine(flower);
+            }
         }
     }
 }
